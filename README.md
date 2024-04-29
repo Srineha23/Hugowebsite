@@ -4,7 +4,7 @@
 Ensure your HTML/CSS website code is hosted in a Git repository. Make sure you have Hugo installed locally and your website can be built successfully using Hugo commands.
 ###
 2.Create a GitHub Actions workflow:
-Add a workflow file (e.g., .github/workflows/build1.yml) to your repository.
+Add a workflow file (e.g., .github/workflows/build1.yml)(https://github.com/Srineha23/Hugowebsite/blob/eae59d2dd977780afe3f27fa4d5a7431ac1685a6/.github/workflows/build1.yml) to your repository.
 
 ###
 This workflow:
