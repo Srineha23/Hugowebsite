@@ -9,14 +9,14 @@ Add a workflow file (e.g., .github/workflows/build1.yml) to your repository.
 ###
 This workflow:
 ###
-Triggers on any push event to any branch.
+i.Triggers on any push event to any branch.
 ###
-Checks out the code.
+ii.Checks out the code.
 ###
-Sets up Hugo.
+iii.Sets up Hugo.
 ###
-Builds the website using Hugo with minification enabled.
+iv.Builds the website using Hugo with minification enabled.
 ###
-Archives the built website as an artifact.
+v.Archives the built website as an artifact.
 ###
 
