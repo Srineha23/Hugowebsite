@@ -1,7 +1,9 @@
 # Hugowebsite
-##1.Set up your repository:
+###
+1.Set up your repository:
 Ensure your HTML/CSS website code is hosted in a Git repository. Make sure you have Hugo installed locally and your website can be built successfully using Hugo commands.
-##2.Create a GitHub Actions workflow:
+###
+2.Create a GitHub Actions workflow:
 Add a workflow file (e.g., .github/workflows/build1.yml) to your repository.
 
 ###
